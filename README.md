@@ -14,7 +14,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevBetterWorld?style=social)](https://twitter.com/DevBetterWorld) 
 ##
 
-### ⭐⭐ *Aprendí que en esta vida no solo se trata de soñar, you also deserve that your life is like a dream* ⭐⭐
+### ⭐ *Aprendí que en esta vida no solo se trata de soñar, you also deserve that your life is like a dream* ⭐
 
     - Love Garfield 😺 ❤️
     - Ayudar a las personas 

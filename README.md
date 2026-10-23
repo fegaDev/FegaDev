@@ -8,7 +8,6 @@
 ![alt text](https://img.shields.io/badge/Master-Why-ff69b4)
 
 ![alt text](https://img.shields.io/badge/Keep-Going-blueviolet?style=for-the-badge&logo=ActiGraph) 
-
 ![alt text](https://img.shields.io/badge/Never-GiveUp-red?style=for-the-badge&logo=AngelList&utm_source=chatgpt.com) 
 ![alt text](https://img.shields.io/badge/Just-DoIt-green?style=for-the-badge&logo=ApacheSpark)
 
